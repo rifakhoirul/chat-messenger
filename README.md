@@ -25,7 +25,7 @@ cd server
 # Install dependencies for api
 npm install
 
-# Start API
+# Start server
 npm start
 ```
 
@@ -34,6 +34,6 @@ npm start
 # In main directory, install dependencies for api
 npm install
 
-# Start API
+# Start client
 npm start
 ```
